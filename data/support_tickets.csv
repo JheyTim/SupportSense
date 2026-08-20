@@ -1,0 +1,301 @@
+ticket_id,created_at,channel,region,text,category,priority,sentiment
+TKT-1190,2026-03-06 06:00:00,email,GB,"Hi there, My order has not arrived yet. This happened after the latest update. Can someone look into this?",delivery,high,neutral
+TKT-1031,2026-03-05 18:00:00,email,GB,"Hi there, I need a copy of my latest invoice. This is the first time I have seen this issue. Can someone look into this?",billing,medium,negative
+TKT-1011,2026-03-26 12:00:00,web_form,CA,"Hey team, I need a copy of my latest invoice. I need this resolved before the end of the day. Can someone look into this?",billing,high,negative
+TKT-1171,2026-05-05 13:00:00,web_form,SG,"Hey team, My delivery is delayed again. This is the first time I have seen this issue. What should I do next?",delivery,high,negative
+TKT-1272,2026-05-23 10:00:00,mobile_app,US,"Hi, Can I upgrade my plan at any time. This happened after the latest update. Please let me know how to fix this.",product_inquiry,medium,positive
+TKT-1242,2026-04-10 11:00:00,email,SG,"Hey team, The refund amount is lower than expected. I have not changed anything on my account.",cancellation_refund,medium,negative
+TKT-1234,2026-01-10 10:00:00,mobile_app,SG,"Good day, My refund has not appeared on my card. It has been happening since yesterday. Thanks in advance.",cancellation_refund,high,neutral
+TKT-1270,2026-04-14 08:00:00,chat,CA,"Good day, Which plan is best for a small team. What should I do next?",product_inquiry,medium,neutral
+TKT-1194,2026-01-22 20:00:00,mobile_app,PH,My delivery is delayed again. I need this resolved before the end of the day. Please let me know how to fix this.,delivery,low,negative
+TKT-1183,2026-03-18 02:00:00,mobile_app,SG,"Hey team, Part of my order is missing. This is the first time I have seen this issue. Can someone look into this?",delivery,medium,negative
+TKT-1237,2026-06-21 14:00:00,mobile_app,CA,"Hello support, Can I cancel an order that has already shipped. I have not changed anything on my account. Please let me know how to fix this.",cancellation_refund,low,neutral
+TKT-1029,2026-02-23 04:00:00,chat,SG,"Good day, My card was declined even though it works elsewhere. I need this resolved before the end of the day. I would appreciate an update.",billing,high,neutral
+TKT-1226,2026-04-08 20:00:00,email,PH,"Hi, My refund has not appeared on my card. This started today. I would appreciate an update.",cancellation_refund,medium,neutral
+TKT-1147,2026-04-17 23:00:00,web_form,PH,I get an error when trying to save changes. I have not changed anything on my account.,technical_issue,medium,neutral
+TKT-1196,2026-04-08 23:00:00,web_form,PH,"Hi there, Can I change the shipping address before dispatch. I need this resolved before the end of the day. I would appreciate an update.",delivery,low,negative
+TKT-1116,2026-05-28 08:00:00,chat,US,"Good day, The app crashes whenever I open settings. This started today. I would appreciate an update.",technical_issue,high,neutral
+TKT-1162,2026-04-25 00:00:00,chat,PH,"Hey team, The tracking number has not updated. I am using the website on my laptop. Please let me know how to fix this.",delivery,medium,negative
+TKT-1118,2026-06-07 17:00:00,web_form,AU,"Hi there, The mobile app freezes on the checkout screen. I am using the mobile app. Thanks in advance.",technical_issue,medium,negative
+TKT-1192,2026-01-24 09:00:00,web_form,US,"Good day, Can I change the shipping address before dispatch. I am using the website on my laptop. Please let me know how to fix this.",delivery,low,neutral
+TKT-1213,2026-02-14 03:00:00,chat,US,"Hey team, Please refund my latest payment. I need this resolved before the end of the day. Please let me know how to fix this.",cancellation_refund,high,neutral
+TKT-1066,2026-06-09 20:00:00,chat,GB,"Hi, I changed my phone number and cannot receive the security code. I have not changed anything on my account. I would appreciate an update.",account_access,high,negative
+TKT-1073,2026-03-10 00:00:00,email,GB,"Good day, I cannot log in to my account. Please let me know how to fix this.",account_access,high,neutral
+TKT-1074,2026-04-29 20:00:00,mobile_app,CA,"Hi, Two factor authentication is not sending a code. I am using the website on my laptop.",account_access,medium,negative
+TKT-1179,2026-06-03 13:00:00,chat,GB,The courier marked the package delivered but I do not have it. I am using the mobile app. Thanks in advance.,delivery,high,neutral
+TKT-1099,2026-04-20 22:00:00,email,US,"Hi, I changed my phone number and cannot receive the security code. I need this resolved before the end of the day. I would appreciate an update.",account_access,high,neutral
+TKT-1257,2026-01-29 06:00:00,mobile_app,GB,"Hey team, Do you have an annual billing option. This is the first time I have seen this issue.",product_inquiry,low,neutral
+TKT-1070,2026-03-26 17:00:00,chat,PH,Two factor authentication is not sending a code. It has been happening since yesterday.,account_access,medium,negative
+TKT-1218,2026-05-23 12:00:00,email,AU,I want to cancel my subscription. I would appreciate an update.,cancellation_refund,high,negative
+TKT-1122,2026-04-09 00:00:00,chat,GB,"Good day, The mobile app freezes on the checkout screen. This started today. What should I do next?",technical_issue,medium,neutral
+TKT-1005,2026-06-07 03:00:00,email,AU,"Good day, My invoice total looks incorrect. This happened after the latest update. What should I do next?",billing,high,negative
+TKT-1289,2026-03-25 08:00:00,chat,SG,"Hey team, Can I use the service on multiple devices. It has been happening since yesterday. I would appreciate an update.",product_inquiry,medium,positive
+TKT-1068,2026-06-05 12:00:00,web_form,SG,"Hi, My account is locked after too many attempts. I am using the website on my laptop. Thanks in advance.",account_access,high,negative
+TKT-1121,2026-04-12 07:00:00,web_form,PH,"Hey team, The mobile app freezes on the checkout screen. It has been happening since yesterday. Can someone look into this?",technical_issue,high,neutral
+TKT-1172,2026-04-25 13:00:00,email,SG,"Hey team, Can I change the shipping address before dispatch. This happened after the latest update. Please let me know how to fix this.",delivery,high,negative
+TKT-1120,2026-06-06 06:00:00,web_form,US,"Hi there, I get an error when trying to save changes. I am using the website on my laptop. Please let me know how to fix this.",technical_issue,high,neutral
+TKT-1016,2026-05-08 23:00:00,chat,GB,My invoice total looks incorrect. I am using the website on my laptop.,billing,medium,negative
+TKT-1186,2026-06-03 10:00:00,email,PH,"Hey team, Part of my order is missing. I already tried again twice.",delivery,high,neutral
+TKT-1092,2026-03-21 08:00:00,web_form,CA,"Hey team, The login page says my credentials are invalid. Thanks in advance.",account_access,high,negative
+TKT-1180,2026-05-31 17:00:00,mobile_app,SG,"Good day, The box arrived damaged. I need this resolved before the end of the day.",delivery,low,neutral
+TKT-1177,2026-04-26 06:00:00,chat,GB,"Hi, My package was delivered to the wrong address. I am using the website on my laptop.",delivery,low,negative
+TKT-1191,2026-05-14 14:00:00,mobile_app,PH,"Hi, The courier marked the package delivered but I do not have it. This is the first time I have seen this issue. What should I do next?",delivery,high,negative
+TKT-1227,2026-05-06 05:00:00,email,AU,"Hello support, Can I cancel an order that has already shipped. I am using the website on my laptop. Please let me know how to fix this.",cancellation_refund,medium,neutral
+TKT-1020,2026-06-26 23:00:00,mobile_app,PH,I do not recognize this charge. I am using the website on my laptop. Thanks in advance.,billing,high,neutral
+TKT-1106,2026-06-23 19:00:00,chat,PH,"Hey team, Notifications stopped working after the update. This is the first time I have seen this issue. Can someone look into this?",technical_issue,high,negative
+TKT-1158,2026-01-25 22:00:00,mobile_app,CA,"Hi there, Can I change the shipping address before dispatch. I am using the mobile app. What should I do next?",delivery,high,neutral
+TKT-1294,2026-03-24 09:00:00,mobile_app,CA,"Hello support, Which plan is best for a small team. I have not changed anything on my account. Please help.",product_inquiry,medium,neutral
+TKT-1181,2026-02-17 13:00:00,web_form,PH,"Hi there, Can I change the shipping address before dispatch. This is the first time I have seen this issue. Thanks in advance.",delivery,low,negative
+TKT-1049,2026-06-27 19:00:00,chat,SG,"Hello support, I was billed after changing my plan. I am using the website on my laptop. Please help.",billing,high,negative
+TKT-1247,2026-01-14 01:00:00,chat,AU,"Good day, My refund has not appeared on my card. This started today.",cancellation_refund,low,negative
+TKT-1217,2026-01-15 09:00:00,email,PH,"Hello support, I accidentally purchased the wrong plan and want a refund. I already tried again twice. Please let me know how to fix this.",cancellation_refund,high,neutral
+TKT-1038,2026-03-28 01:00:00,email,PH,I do not recognize this charge. This happened after the latest update. Can someone look into this?,billing,high,neutral
+TKT-1184,2026-03-22 19:00:00,mobile_app,PH,"Hey team, My order has not arrived yet. This started today. Thanks in advance.",delivery,high,neutral
+TKT-1290,2026-05-10 01:00:00,mobile_app,PH,What is the difference between the basic and pro plans. This started today. Please help.,product_inquiry,medium,positive
+TKT-1025,2026-03-27 04:00:00,chat,US,"Hi, My invoice total looks incorrect. I have not changed anything on my account. Please let me know how to fix this.",billing,high,negative
+TKT-1112,2026-06-10 14:00:00,web_form,SG,"Hi, Search results are not appearing. I already tried again twice. Thanks in advance.",technical_issue,medium,negative
+TKT-1146,2026-04-23 20:00:00,email,AU,"Hi, The mobile app freezes on the checkout screen. This happened after the latest update.",technical_issue,medium,negative
+TKT-1114,2026-04-09 10:00:00,chat,CA,"Hi there, Search results are not appearing. This started today. What should I do next?",technical_issue,medium,negative
+TKT-1034,2026-01-04 12:00:00,mobile_app,GB,"Hello support, My card was declined even though it works elsewhere. I am using the website on my laptop. Thanks in advance.",billing,high,negative
+TKT-1100,2026-06-05 13:00:00,email,SG,"Hey team, I keep getting signed out. I need this resolved before the end of the day. I would appreciate an update.",account_access,high,negative
+TKT-1249,2026-06-05 10:00:00,mobile_app,US,"Hi there, I want to return my order for a refund. Please help.",cancellation_refund,medium,neutral
+TKT-1281,2026-03-31 08:00:00,mobile_app,SG,"Hi there, Does the premium plan include team accounts. I am using the mobile app. Please let me know how to fix this.",product_inquiry,low,neutral
+TKT-1017,2026-02-08 12:00:00,web_form,SG,"Hi, The discount code was not applied. I would appreciate an update.",billing,high,negative
+TKT-1008,2026-01-25 16:00:00,chat,GB,"Hello support, Can you explain the extra fee on my bill. This happened after the latest update. I would appreciate an update.",billing,medium,neutral
+TKT-1220,2026-03-11 23:00:00,web_form,GB,"Hello support, I want to cancel my subscription. I need this resolved before the end of the day. Thanks in advance.",cancellation_refund,medium,neutral
+TKT-1268,2026-01-16 10:00:00,mobile_app,AU,"Hi there, What is the difference between the basic and pro plans. This started today. Thanks in advance.",product_inquiry,low,neutral
+TKT-1042,2026-05-02 01:00:00,mobile_app,GB,"Hi, Can you explain the extra fee on my bill. This happened after the latest update. Can someone look into this?",billing,medium,negative
+TKT-1204,2026-05-08 07:00:00,mobile_app,PH,"Hi there, I want to cancel my subscription. I already tried again twice. Please let me know how to fix this.",cancellation_refund,medium,neutral
+TKT-1156,2026-04-14 05:00:00,chat,US,"Hey team, The box arrived damaged. Please help.",delivery,low,negative
+TKT-1069,2026-01-07 22:00:00,email,SG,"Good day, The login page says my credentials are invalid. I have not changed anything on my account. I would appreciate an update.",account_access,medium,neutral
+TKT-1110,2026-05-13 02:00:00,chat,AU,"Hi, The mobile app freezes on the checkout screen. This happened after the latest update. Please let me know how to fix this.",technical_issue,high,neutral
+TKT-1278,2026-04-07 22:00:00,mobile_app,AU,Which plan is best for a small team. I am using the mobile app. Thanks in advance.,product_inquiry,low,positive
+TKT-1188,2026-01-22 18:00:00,email,AU,"Hi, Part of my order is missing. This started today. Can someone look into this?",delivery,medium,neutral
+TKT-1136,2026-03-27 21:00:00,chat,PH,"Hi, The latest update broke dark mode. I am using the website on my laptop.",technical_issue,medium,negative
+TKT-1166,2026-04-05 02:00:00,email,SG,"Hi, My delivery is delayed again. I need this resolved before the end of the day. Thanks in advance.",delivery,high,neutral
+TKT-1001,2026-02-05 07:00:00,email,GB,"Hi, My invoice total looks incorrect. I am using the website on my laptop. Can someone look into this?",billing,medium,negative
+TKT-1050,2026-04-13 20:00:00,web_form,CA,"Hi, My card was declined even though it works elsewhere. This happened after the latest update. What should I do next?",billing,high,negative
+TKT-1117,2026-03-02 02:00:00,email,GB,"Hey team, The page refreshes every time I click submit. Please let me know how to fix this.",technical_issue,medium,negative
+TKT-1134,2026-01-18 14:00:00,web_form,US,"Hi, Notifications stopped working after the update. I need this resolved before the end of the day. Please help.",technical_issue,medium,negative
+TKT-1144,2026-05-27 00:00:00,web_form,CA,"Hey team, I get an error when trying to save changes. I have not changed anything on my account. Thanks in advance.",technical_issue,medium,neutral
+TKT-1151,2026-02-01 15:00:00,chat,AU,"Hi, Can I change the shipping address before dispatch. I already tried again twice. Please let me know how to fix this.",delivery,high,negative
+TKT-1079,2026-04-06 18:00:00,web_form,GB,"Hey team, My account is locked after too many attempts. I am using the mobile app. I would appreciate an update.",account_access,high,neutral
+TKT-1004,2026-02-05 05:00:00,email,AU,"Good day, My card was declined even though it works elsewhere. I am using the website on my laptop. Can someone look into this?",billing,medium,neutral
+TKT-1051,2026-03-07 19:00:00,mobile_app,CA,"Good day, The login page says my credentials are invalid. I have not changed anything on my account. Please let me know how to fix this.",account_access,high,negative
+TKT-1056,2026-05-12 09:00:00,mobile_app,AU,"Hi there, I changed my phone number and cannot receive the security code. It has been happening since yesterday. Thanks in advance.",account_access,high,negative
+TKT-1232,2026-02-25 19:00:00,mobile_app,GB,"Hi there, I accidentally purchased the wrong plan and want a refund. I already tried again twice. I would appreciate an update.",cancellation_refund,high,neutral
+TKT-1225,2026-03-24 12:00:00,chat,GB,"Hey team, I want to return my order for a refund. This started today. Please help.",cancellation_refund,medium,neutral
+TKT-1088,2026-02-22 02:00:00,chat,GB,"Hi, The password reset email never arrived. I have not changed anything on my account. Thanks in advance.",account_access,medium,negative
+TKT-1024,2026-06-09 17:00:00,email,CA,"Hi, My invoice total looks incorrect. I have not changed anything on my account. I would appreciate an update.",billing,high,neutral
+TKT-1228,2026-01-26 10:00:00,mobile_app,GB,"Hi there, I want to cancel my subscription. This is the first time I have seen this issue. Can someone look into this?",cancellation_refund,medium,neutral
+TKT-1207,2026-03-10 15:00:00,email,US,"Hello support, I need to stop my renewal. I would appreciate an update.",cancellation_refund,high,neutral
+TKT-1219,2026-04-12 20:00:00,mobile_app,PH,"Good day, The refund amount is lower than expected. I am using the website on my laptop. Thanks in advance.",cancellation_refund,low,neutral
+TKT-1060,2026-06-28 06:00:00,mobile_app,CA,"Hey team, I changed my phone number and cannot receive the security code. I am using the website on my laptop.",account_access,medium,neutral
+TKT-1256,2026-06-05 15:00:00,web_form,AU,"Hello support, Which plan is best for a small team. I am using the mobile app. Can someone look into this?",product_inquiry,medium,neutral
+TKT-1214,2026-04-15 03:00:00,chat,US,"Hi there, Can I cancel an order that has already shipped. This started today.",cancellation_refund,low,negative
+TKT-1160,2026-02-28 23:00:00,mobile_app,CA,"Good day, Can I change the shipping address before dispatch. It has been happening since yesterday. Thanks in advance.",delivery,low,neutral
+TKT-1021,2026-03-17 12:00:00,email,PH,"Hello support, I do not recognize this charge. It has been happening since yesterday. I would appreciate an update.",billing,medium,negative
+TKT-1071,2026-03-16 17:00:00,mobile_app,CA,"Hello support, I cannot verify my email address. I am using the mobile app. Can someone look into this?",account_access,high,negative
+TKT-1023,2026-06-11 18:00:00,mobile_app,US,"Hello support, I need a copy of my latest invoice. This is the first time I have seen this issue. Can someone look into this?",billing,high,negative
+TKT-1176,2026-03-07 20:00:00,chat,US,"Good day, The courier marked the package delivered but I do not have it. I already tried again twice. Can someone look into this?",delivery,medium,neutral
+TKT-1032,2026-01-14 21:00:00,email,AU,My invoice total looks incorrect. I am using the mobile app. Thanks in advance.,billing,medium,negative
+TKT-1095,2026-06-10 07:00:00,web_form,CA,I cannot verify my email address. I would appreciate an update.,account_access,high,negative
+TKT-1132,2026-05-07 19:00:00,chat,AU,"Hey team, The website keeps showing a blank page. Thanks in advance.",technical_issue,high,negative
+TKT-1277,2026-02-10 09:00:00,mobile_app,US,"Good day, Is this product available in my country. I am using the website on my laptop. Please help.",product_inquiry,low,neutral
+TKT-1293,2026-04-18 16:00:00,email,US,"Hi there, Can I use the service on multiple devices. Please let me know how to fix this.",product_inquiry,low,neutral
+TKT-1233,2026-04-13 15:00:00,mobile_app,PH,"Hi there, I want to return my order for a refund. This happened after the latest update. What should I do next?",cancellation_refund,high,neutral
+TKT-1260,2026-06-08 03:00:00,web_form,CA,"Hello support, Can I upgrade my plan at any time. This is the first time I have seen this issue. Thanks in advance.",product_inquiry,medium,neutral
+TKT-1246,2026-06-13 07:00:00,chat,SG,"Hi, I cancelled but I was still charged. This is the first time I have seen this issue. Can someone look into this?",cancellation_refund,medium,neutral
+TKT-1015,2026-06-21 04:00:00,chat,GB,"Hey team, The payment was taken but my balance did not update. I already tried again twice. Thanks in advance.",billing,medium,neutral
+TKT-1161,2026-05-30 01:00:00,mobile_app,GB,"Hi, The courier marked the package delivered but I do not have it. I have not changed anything on my account.",delivery,low,negative
+TKT-1104,2026-03-19 00:00:00,email,AU,"Good day, Uploads are stuck at zero percent. This is the first time I have seen this issue. Please help.",technical_issue,high,negative
+TKT-1006,2026-01-25 01:00:00,email,CA,"Hi there, My invoice total looks incorrect. I am using the website on my laptop.",billing,high,negative
+TKT-1139,2026-06-28 07:00:00,web_form,AU,"Hi there, The page refreshes every time I click submit. It has been happening since yesterday. Thanks in advance.",technical_issue,medium,negative
+TKT-1009,2026-04-22 00:00:00,email,US,"Hello support, I do not recognize this charge. I need this resolved before the end of the day. Thanks in advance.",billing,high,negative
+TKT-1041,2026-02-13 20:00:00,email,SG,"Good day, I was charged twice for my subscription. What should I do next?",billing,medium,neutral
+TKT-1058,2026-06-06 03:00:00,chat,AU,"Hey team, My account was disabled unexpectedly. This started today. What should I do next?",account_access,medium,negative
+TKT-1170,2026-01-14 16:00:00,chat,CA,"Hi, My delivery is delayed again. This happened after the latest update. Please let me know how to fix this.",delivery,low,negative
+TKT-1168,2026-06-08 06:00:00,email,AU,The tracking number has not updated. It has been happening since yesterday. What should I do next?,delivery,high,neutral
+TKT-1264,2026-03-03 06:00:00,mobile_app,GB,"Hi, What payment methods do you accept. This is the first time I have seen this issue. Can someone look into this?",product_inquiry,medium,neutral
+TKT-1013,2026-01-23 00:00:00,mobile_app,AU,"Hi, I was charged twice for my subscription. I already tried again twice. Please let me know how to fix this.",billing,medium,neutral
+TKT-1061,2026-04-04 01:00:00,web_form,SG,"Good day, Two factor authentication is not sending a code. I need this resolved before the end of the day. Please help.",account_access,high,negative
+TKT-1045,2026-03-18 10:00:00,email,CA,"Hello support, I do not recognize this charge. I need this resolved before the end of the day. I would appreciate an update.",billing,high,negative
+TKT-1262,2026-06-11 11:00:00,email,SG,Does the app support offline mode. It has been happening since yesterday. What should I do next?,product_inquiry,low,neutral
+TKT-1203,2026-05-04 22:00:00,mobile_app,GB,"Hi, I need to stop my renewal. I already tried again twice. Please help.",cancellation_refund,low,neutral
+TKT-1135,2026-03-21 20:00:00,web_form,US,"Hi there, Uploads are stuck at zero percent. I am using the mobile app. Please help.",technical_issue,medium,negative
+TKT-1280,2026-05-07 20:00:00,web_form,AU,What is the difference between the basic and pro plans. I need this resolved before the end of the day.,product_inquiry,medium,neutral
+TKT-1059,2026-06-02 12:00:00,chat,CA,"Hi there, My account was disabled unexpectedly. I would appreciate an update.",account_access,high,neutral
+TKT-1282,2026-06-20 18:00:00,web_form,SG,"Hello support, Do you offer a student discount. This happened after the latest update. Can someone look into this?",product_inquiry,medium,neutral
+TKT-1080,2026-06-17 02:00:00,chat,CA,"Hi there, I cannot log in to my account. I am using the mobile app. Please help.",account_access,medium,neutral
+TKT-1090,2026-02-04 04:00:00,chat,CA,"Good day, I changed my phone number and cannot receive the security code. Thanks in advance.",account_access,high,negative
+TKT-1037,2026-04-04 07:00:00,web_form,GB,"Hello support, My invoice total looks incorrect. I am using the website on my laptop. Please help.",billing,medium,negative
+TKT-1240,2026-04-09 23:00:00,chat,CA,"Good day, How long does a refund take. This is the first time I have seen this issue. I would appreciate an update.",cancellation_refund,low,neutral
+TKT-1165,2026-04-21 15:00:00,web_form,US,"Hello support, The tracking number has not updated. I need this resolved before the end of the day. Thanks in advance.",delivery,high,neutral
+TKT-1107,2026-04-07 21:00:00,web_form,GB,"Hey team, The dashboard is loading very slowly. This happened after the latest update.",technical_issue,high,negative
+TKT-1076,2026-03-02 10:00:00,web_form,GB,"Good day, The login page says my credentials are invalid. I need this resolved before the end of the day. Please let me know how to fix this.",account_access,medium,neutral
+TKT-1027,2026-03-23 00:00:00,chat,AU,"Hi there, I need a copy of my latest invoice. It has been happening since yesterday. Please help.",billing,medium,negative
+TKT-1124,2026-04-12 01:00:00,web_form,CA,"Hi, Search results are not appearing. I would appreciate an update.",technical_issue,medium,negative
+TKT-1200,2026-02-27 05:00:00,mobile_app,SG,The courier marked the package delivered but I do not have it. I am using the website on my laptop. I would appreciate an update.,delivery,medium,neutral
+TKT-1089,2026-06-28 16:00:00,mobile_app,AU,"Hi, I forgot which email I used to sign up. I am using the mobile app. Please help.",account_access,high,negative
+TKT-1039,2026-03-31 17:00:00,chat,CA,"Good day, My card was declined even though it works elsewhere. This started today. Please help.",billing,high,negative
+TKT-1261,2026-01-26 06:00:00,email,AU,"Hey team, Does the premium plan include team accounts. I am using the website on my laptop.",product_inquiry,low,neutral
+TKT-1287,2026-06-21 18:00:00,mobile_app,US,"Hi there, Does the premium plan include team accounts. I am using the website on my laptop. What should I do next?",product_inquiry,medium,neutral
+TKT-1239,2026-04-01 13:00:00,mobile_app,US,"Hey team, I cancelled but I was still charged. This is the first time I have seen this issue. I would appreciate an update.",cancellation_refund,high,neutral
+TKT-1096,2026-01-28 18:00:00,email,AU,"Good day, The login page says my credentials are invalid. This is the first time I have seen this issue. What should I do next?",account_access,high,neutral
+TKT-1193,2026-04-26 21:00:00,chat,CA,"Hi there, The tracking number has not updated. This happened after the latest update. Can someone look into this?",delivery,low,neutral
+TKT-1149,2026-01-10 07:00:00,web_form,PH,"Hi, I get an error when trying to save changes. I am using the website on my laptop. What should I do next?",technical_issue,medium,neutral
+TKT-1143,2026-06-04 11:00:00,chat,AU,The website keeps showing a blank page. This is the first time I have seen this issue. Please let me know how to fix this.,technical_issue,medium,neutral
+TKT-1133,2026-01-22 00:00:00,mobile_app,SG,"Hello support, Search results are not appearing. This happened after the latest update. Please help.",technical_issue,high,neutral
+TKT-1131,2026-05-24 09:00:00,chat,AU,"Hi there, Notifications stopped working after the update. I already tried again twice. Thanks in advance.",technical_issue,high,neutral
+TKT-1057,2026-03-17 00:00:00,chat,CA,"Hello support, Two factor authentication is not sending a code. This started today.",account_access,medium,neutral
+TKT-1067,2026-05-27 15:00:00,chat,AU,"Hi, My account was disabled unexpectedly. I have not changed anything on my account. What should I do next?",account_access,medium,negative
+TKT-1026,2026-06-08 05:00:00,chat,PH,"Hey team, The discount code was not applied. I already tried again twice. Thanks in advance.",billing,medium,neutral
+TKT-1003,2026-04-06 06:00:00,email,US,I do not recognize this charge. This is the first time I have seen this issue. Thanks in advance.,billing,medium,neutral
+TKT-1283,2026-02-28 02:00:00,chat,CA,Can I upgrade my plan at any time. I need this resolved before the end of the day. Thanks in advance.,product_inquiry,low,positive
+TKT-1241,2026-04-09 13:00:00,email,GB,"Good day, I need to stop my renewal. I need this resolved before the end of the day. I would appreciate an update.",cancellation_refund,high,neutral
+TKT-1244,2026-03-25 02:00:00,email,CA,"Hi there, I want to return my order for a refund. I am using the website on my laptop. Can someone look into this?",cancellation_refund,low,negative
+TKT-1174,2026-02-14 08:00:00,email,SG,"Good day, My package was delivered to the wrong address. I am using the website on my laptop. Please let me know how to fix this.",delivery,high,neutral
+TKT-1208,2026-04-20 10:00:00,web_form,CA,"Hey team, Please refund my latest payment. I already tried again twice. Please let me know how to fix this.",cancellation_refund,medium,negative
+TKT-1012,2026-02-17 13:00:00,mobile_app,PH,"Hey team, I was billed after changing my plan. Thanks in advance.",billing,high,negative
+TKT-1157,2026-05-28 07:00:00,chat,US,"Good day, Part of my order is missing. This happened after the latest update. Please help.",delivery,low,neutral
+TKT-1043,2026-01-09 19:00:00,chat,CA,"Hello support, Why did my monthly price increase. I already tried again twice.",billing,medium,neutral
+TKT-1091,2026-01-26 22:00:00,chat,PH,"Good day, Two factor authentication is not sending a code. It has been happening since yesterday. Can someone look into this?",account_access,medium,negative
+TKT-1064,2026-01-03 08:00:00,web_form,SG,"Hi there, The login page says my credentials are invalid. This started today.",account_access,high,neutral
+TKT-1028,2026-02-26 12:00:00,mobile_app,PH,"Hey team, I need a copy of my latest invoice. I am using the mobile app.",billing,high,negative
+TKT-1022,2026-06-25 19:00:00,chat,SG,"Hello support, I was charged twice for my subscription. It has been happening since yesterday. Please help.",billing,high,negative
+TKT-1164,2026-03-01 13:00:00,chat,CA,"Hello support, My package was delivered to the wrong address. It has been happening since yesterday. Can someone look into this?",delivery,medium,negative
+TKT-1236,2026-01-07 19:00:00,mobile_app,SG,"Hi, How long does a refund take. Please let me know how to fix this.",cancellation_refund,low,negative
+TKT-1273,2026-03-19 06:00:00,web_form,CA,"Hey team, Can I use the service on multiple devices. I already tried again twice.",product_inquiry,medium,neutral
+TKT-1093,2026-03-09 20:00:00,mobile_app,PH,I forgot which email I used to sign up. I need this resolved before the end of the day. Please help.,account_access,medium,neutral
+TKT-1010,2026-04-18 17:00:00,chat,CA,"Good day, I was charged twice for my subscription. I have not changed anything on my account. I would appreciate an update.",billing,medium,negative
+TKT-1205,2026-04-06 11:00:00,chat,PH,"Hello support, I accidentally purchased the wrong plan and want a refund. This is the first time I have seen this issue. I would appreciate an update.",cancellation_refund,medium,neutral
+TKT-1108,2026-06-15 15:00:00,web_form,SG,The latest update broke dark mode. I need this resolved before the end of the day.,technical_issue,medium,neutral
+TKT-1130,2026-06-18 11:00:00,email,PH,"Hi, The mobile app freezes on the checkout screen. I already tried again twice. Please help.",technical_issue,medium,neutral
+TKT-1137,2026-01-06 17:00:00,chat,SG,"Hello support, The app crashes whenever I open settings. This started today. I would appreciate an update.",technical_issue,medium,neutral
+TKT-1103,2026-01-11 04:00:00,chat,CA,"Hello support, The page refreshes every time I click submit. I am using the website on my laptop. Thanks in advance.",technical_issue,high,negative
+TKT-1297,2026-05-28 17:00:00,chat,CA,"Hey team, Can I use the service on multiple devices. I need this resolved before the end of the day. Can someone look into this?",product_inquiry,medium,positive
+TKT-1229,2026-02-14 06:00:00,email,AU,"Hi there, I need to stop my renewal. I am using the website on my laptop.",cancellation_refund,high,negative
+TKT-1265,2026-04-13 04:00:00,mobile_app,CA,Do you offer a student discount. I am using the mobile app.,product_inquiry,low,neutral
+TKT-1115,2026-02-27 02:00:00,web_form,PH,"Hey team, The website keeps showing a blank page. It has been happening since yesterday.",technical_issue,medium,neutral
+TKT-1019,2026-05-25 18:00:00,chat,GB,"Hello support, Why did my monthly price increase. I need this resolved before the end of the day. What should I do next?",billing,medium,neutral
+TKT-1215,2026-01-28 06:00:00,web_form,US,My refund has not appeared on my card. I am using the mobile app. I would appreciate an update.,cancellation_refund,high,neutral
+TKT-1109,2026-03-23 20:00:00,mobile_app,US,"Hi there, The page refreshes every time I click submit. I have not changed anything on my account. Thanks in advance.",technical_issue,high,negative
+TKT-1296,2026-05-16 17:00:00,web_form,PH,"Hey team, What is the difference between the basic and pro plans. I am using the mobile app.",product_inquiry,low,positive
+TKT-1169,2026-06-21 11:00:00,chat,PH,When will my order be shipped. I am using the mobile app. I would appreciate an update.,delivery,high,neutral
+TKT-1065,2026-03-17 05:00:00,web_form,AU,"Hey team, The login page says my credentials are invalid. This is the first time I have seen this issue. Please let me know how to fix this.",account_access,medium,neutral
+TKT-1062,2026-02-22 11:00:00,chat,PH,"Hi, My account was disabled unexpectedly. I already tried again twice. Can someone look into this?",account_access,medium,neutral
+TKT-1259,2026-02-01 08:00:00,mobile_app,PH,"Hey team, Do you have an annual billing option. It has been happening since yesterday. Please let me know how to fix this.",product_inquiry,low,positive
+TKT-1238,2026-06-13 14:00:00,mobile_app,SG,I want to cancel my subscription. I already tried again twice. What should I do next?,cancellation_refund,low,neutral
+TKT-1036,2026-01-04 00:00:00,web_form,CA,"Good day, I do not recognize this charge. I am using the website on my laptop. Can someone look into this?",billing,high,neutral
+TKT-1128,2026-02-07 07:00:00,chat,AU,I get an error when trying to save changes. I am using the website on my laptop. What should I do next?,technical_issue,high,neutral
+TKT-1173,2026-04-25 02:00:00,email,GB,"Hi there, The tracking number has not updated. I have not changed anything on my account. I would appreciate an update.",delivery,medium,negative
+TKT-1105,2026-05-23 03:00:00,mobile_app,AU,The website keeps showing a blank page. I already tried again twice. Thanks in advance.,technical_issue,high,neutral
+TKT-1018,2026-06-16 05:00:00,email,GB,"Hi, I do not recognize this charge. I am using the mobile app. What should I do next?",billing,medium,negative
+TKT-1222,2026-04-02 15:00:00,mobile_app,US,"Hi, The refund amount is lower than expected. This happened after the latest update. Can someone look into this?",cancellation_refund,medium,negative
+TKT-1224,2026-06-26 00:00:00,mobile_app,AU,I accidentally purchased the wrong plan and want a refund. This happened after the latest update. Can someone look into this?,cancellation_refund,low,neutral
+TKT-1252,2026-02-02 21:00:00,chat,US,"Hey team, What payment methods do you accept. This is the first time I have seen this issue. I would appreciate an update.",product_inquiry,low,positive
+TKT-1054,2026-04-08 04:00:00,web_form,PH,"Hi there, Two factor authentication is not sending a code. I need this resolved before the end of the day.",account_access,medium,negative
+TKT-1291,2026-04-24 09:00:00,email,GB,Does the premium plan include team accounts. I already tried again twice. Please help.,product_inquiry,medium,positive
+TKT-1119,2026-02-24 06:00:00,email,AU,The dashboard is loading very slowly. This started today.,technical_issue,high,neutral
+TKT-1187,2026-02-08 06:00:00,web_form,US,"Good day, My order has not arrived yet. I am using the mobile app.",delivery,low,neutral
+TKT-1298,2026-01-26 10:00:00,email,SG,Which plan is best for a small team. I have not changed anything on my account. Please help.,product_inquiry,medium,neutral
+TKT-1141,2026-02-13 09:00:00,web_form,GB,"Hi, Search results are not appearing. It has been happening since yesterday. I would appreciate an update.",technical_issue,medium,negative
+TKT-1197,2026-05-17 20:00:00,mobile_app,AU,"Good day, The courier marked the package delivered but I do not have it. It has been happening since yesterday.",delivery,medium,neutral
+TKT-1175,2026-05-25 20:00:00,web_form,PH,"Hey team, The package was returned to sender. This happened after the latest update.",delivery,low,negative
+TKT-1047,2026-04-01 22:00:00,email,PH,"Good day, The discount code was not applied. This started today. Please help.",billing,high,negative
+TKT-1140,2026-02-07 04:00:00,mobile_app,CA,"Hi, The app crashes whenever I open settings. I need this resolved before the end of the day.",technical_issue,high,neutral
+TKT-1152,2026-04-22 01:00:00,email,PH,"Hey team, Can I change the shipping address before dispatch. This happened after the latest update. Can someone look into this?",delivery,medium,neutral
+TKT-1299,2026-05-04 10:00:00,email,PH,"Hey team, Do you offer a student discount. I already tried again twice. Please let me know how to fix this.",product_inquiry,medium,positive
+TKT-1145,2026-02-01 11:00:00,email,PH,"Good day, The dashboard is loading very slowly. I already tried again twice. Please let me know how to fix this.",technical_issue,high,negative
+TKT-1030,2026-01-20 20:00:00,email,GB,"Hi, I do not recognize this charge. Please let me know how to fix this.",billing,medium,neutral
+TKT-1094,2026-01-21 16:00:00,chat,SG,"Hello support, My account was disabled unexpectedly. I already tried again twice. I would appreciate an update.",account_access,medium,negative
+TKT-1258,2026-02-21 11:00:00,chat,SG,"Hi, Does the app support offline mode. Please help.",product_inquiry,low,neutral
+TKT-1202,2026-01-11 23:00:00,chat,GB,"Good day, Can I cancel an order that has already shipped. This is the first time I have seen this issue.",cancellation_refund,high,negative
+TKT-1210,2026-06-18 23:00:00,email,SG,"Hi, How long does a refund take. I am using the mobile app.",cancellation_refund,low,negative
+TKT-1276,2026-03-06 13:00:00,chat,AU,"Hi, Is this product available in my country. I am using the website on my laptop. Thanks in advance.",product_inquiry,low,neutral
+TKT-1097,2026-01-08 09:00:00,web_form,GB,"Hi there, I keep getting signed out. I am using the website on my laptop. Please help.",account_access,medium,negative
+TKT-1084,2026-04-05 17:00:00,web_form,PH,My account was disabled unexpectedly. I already tried again twice. Can someone look into this?,account_access,medium,neutral
+TKT-1063,2026-01-22 14:00:00,chat,AU,"Hey team, The login page says my credentials are invalid. This happened after the latest update. What should I do next?",account_access,high,neutral
+TKT-1201,2026-01-20 21:00:00,email,CA,"Hi, I need to stop my renewal. This happened after the latest update. What should I do next?",cancellation_refund,medium,neutral
+TKT-1148,2026-02-07 06:00:00,web_form,GB,"Hi there, The latest update broke dark mode. I am using the mobile app. Can someone look into this?",technical_issue,high,negative
+TKT-1126,2026-01-27 00:00:00,chat,US,The dashboard is loading very slowly. This happened after the latest update.,technical_issue,medium,neutral
+TKT-1163,2026-04-30 14:00:00,web_form,CA,The package was returned to sender. It has been happening since yesterday. What should I do next?,delivery,high,negative
+TKT-1231,2026-06-12 00:00:00,mobile_app,US,"Hi, I want to cancel my subscription. This started today. Can someone look into this?",cancellation_refund,high,neutral
+TKT-1189,2026-02-19 08:00:00,web_form,AU,"Hi there, When will my order be shipped. This started today. Please let me know how to fix this.",delivery,high,negative
+TKT-1271,2026-03-02 02:00:00,mobile_app,GB,"Hello support, Do you have an annual billing option. I have not changed anything on my account. I would appreciate an update.",product_inquiry,medium,neutral
+TKT-1082,2026-05-26 13:00:00,web_form,SG,"Good day, Two factor authentication is not sending a code. I would appreciate an update.",account_access,high,neutral
+TKT-1251,2026-03-08 06:00:00,chat,GB,Can I use the service on multiple devices. I already tried again twice. Please help.,product_inquiry,medium,positive
+TKT-1292,2026-01-17 05:00:00,email,CA,"Hello support, Does the premium plan include team accounts. I am using the mobile app.",product_inquiry,medium,positive
+TKT-1081,2026-04-11 18:00:00,chat,AU,I changed my phone number and cannot receive the security code. I need this resolved before the end of the day. Thanks in advance.,account_access,medium,negative
+TKT-1123,2026-02-03 11:00:00,email,SG,"Hello support, I get an error when trying to save changes. I am using the mobile app. What should I do next?",technical_issue,high,negative
+TKT-1052,2026-01-01 11:00:00,web_form,SG,The login page says my credentials are invalid. I already tried again twice. What should I do next?,account_access,high,neutral
+TKT-1178,2026-05-30 17:00:00,email,AU,"Hello support, Can I change the shipping address before dispatch. I already tried again twice. Can someone look into this?",delivery,high,negative
+TKT-1274,2026-02-16 02:00:00,mobile_app,US,"Hey team, Do you offer a student discount. This started today. What should I do next?",product_inquiry,medium,positive
+TKT-1083,2026-03-08 01:00:00,web_form,PH,"Good day, I changed my phone number and cannot receive the security code. I am using the website on my laptop. I would appreciate an update.",account_access,medium,negative
+TKT-1077,2026-03-26 03:00:00,email,SG,"Hey team, My account was disabled unexpectedly. I need this resolved before the end of the day. Thanks in advance.",account_access,high,neutral
+TKT-1255,2026-02-10 09:00:00,web_form,SG,"Hey team, What is the difference between the basic and pro plans. I am using the website on my laptop. Can someone look into this?",product_inquiry,medium,positive
+TKT-1153,2026-04-04 05:00:00,mobile_app,CA,"Hello support, My package was delivered to the wrong address. Please help.",delivery,high,negative
+TKT-1288,2026-06-30 00:00:00,web_form,SG,"Hi, What is the difference between the basic and pro plans. This is the first time I have seen this issue. Can someone look into this?",product_inquiry,low,neutral
+TKT-1245,2026-04-24 01:00:00,mobile_app,PH,"Hello support, The refund amount is lower than expected. I am using the mobile app. Please help.",cancellation_refund,low,neutral
+TKT-1211,2026-01-30 18:00:00,email,SG,"Hi there, The refund amount is lower than expected. This happened after the latest update. Thanks in advance.",cancellation_refund,high,negative
+TKT-1295,2026-06-21 06:00:00,web_form,PH,"Good day, Do you have an annual billing option. I have not changed anything on my account.",product_inquiry,low,neutral
+TKT-1111,2026-05-31 14:00:00,email,GB,"Hello support, The app crashes whenever I open settings. This is the first time I have seen this issue. What should I do next?",technical_issue,high,negative
+TKT-1250,2026-02-25 19:00:00,mobile_app,CA,"Hey team, The refund amount is lower than expected. I am using the website on my laptop. Can someone look into this?",cancellation_refund,low,neutral
+TKT-1113,2026-05-11 01:00:00,web_form,CA,The latest update broke dark mode. I have not changed anything on my account. Please let me know how to fix this.,technical_issue,medium,neutral
+TKT-1085,2026-01-06 03:00:00,chat,SG,"Good day, Two factor authentication is not sending a code. I am using the mobile app. I would appreciate an update.",account_access,medium,neutral
+TKT-1300,2026-02-15 13:00:00,email,US,"Good day, Does the premium plan include team accounts. I need this resolved before the end of the day. I would appreciate an update.",product_inquiry,medium,neutral
+TKT-1206,2026-02-10 12:00:00,web_form,SG,I want to cancel my subscription. I already tried again twice. Thanks in advance.,cancellation_refund,high,neutral
+TKT-1098,2026-03-04 06:00:00,mobile_app,CA,"Hello support, I cannot log in to my account. I need this resolved before the end of the day. What should I do next?",account_access,high,neutral
+TKT-1159,2026-05-27 20:00:00,mobile_app,CA,"Hey team, My order has not arrived yet. This started today. Thanks in advance.",delivery,low,neutral
+TKT-1266,2026-06-07 13:00:00,web_form,US,"Hey team, Do you have an annual billing option. This is the first time I have seen this issue. Thanks in advance.",product_inquiry,low,neutral
+TKT-1269,2026-06-22 07:00:00,web_form,US,"Hi there, Is this product available in my country. I am using the mobile app.",product_inquiry,low,neutral
+TKT-1102,2026-01-18 22:00:00,chat,SG,"Hi there, Notifications stopped working after the update. This happened after the latest update. What should I do next?",technical_issue,high,neutral
+TKT-1243,2026-03-15 08:00:00,chat,GB,"Good day, Please refund my latest payment. I need this resolved before the end of the day. Please let me know how to fix this.",cancellation_refund,medium,neutral
+TKT-1002,2026-06-22 19:00:00,email,GB,"Hi, My card was declined even though it works elsewhere. This started today. Please help.",billing,medium,negative
+TKT-1078,2026-01-11 03:00:00,mobile_app,SG,"Hello support, I changed my phone number and cannot receive the security code. I need this resolved before the end of the day. What should I do next?",account_access,high,neutral
+TKT-1035,2026-02-15 13:00:00,web_form,PH,"Hi, I was billed after changing my plan. It has been happening since yesterday. What should I do next?",billing,medium,neutral
+TKT-1055,2026-01-09 16:00:00,email,US,Two factor authentication is not sending a code. I am using the website on my laptop. Can someone look into this?,account_access,medium,negative
+TKT-1235,2026-02-28 12:00:00,mobile_app,US,"Hi there, I accidentally purchased the wrong plan and want a refund. I am using the mobile app. Please let me know how to fix this.",cancellation_refund,low,neutral
+TKT-1101,2026-06-08 00:00:00,mobile_app,PH,"Good day, The dashboard is loading very slowly. It has been happening since yesterday.",technical_issue,high,negative
+TKT-1254,2026-05-04 01:00:00,chat,PH,"Good day, Does the app support offline mode. Please let me know how to fix this.",product_inquiry,low,positive
+TKT-1127,2026-04-01 14:00:00,email,AU,"Hi there, The mobile app freezes on the checkout screen. This happened after the latest update. Please help.",technical_issue,high,negative
+TKT-1129,2026-06-08 19:00:00,web_form,CA,"Hi there, The app crashes whenever I open settings. This is the first time I have seen this issue. I would appreciate an update.",technical_issue,medium,negative
+TKT-1185,2026-02-20 04:00:00,chat,PH,"Hello support, The courier marked the package delivered but I do not have it. This started today. I would appreciate an update.",delivery,low,neutral
+TKT-1040,2026-01-27 00:00:00,chat,GB,"Hi there, I need a copy of my latest invoice. I have not changed anything on my account. What should I do next?",billing,medium,negative
+TKT-1248,2026-04-10 03:00:00,email,PH,"Hi, I cancelled but I was still charged. I have not changed anything on my account.",cancellation_refund,medium,negative
+TKT-1154,2026-03-15 21:00:00,email,SG,"Hey team, Can I change the shipping address before dispatch. Thanks in advance.",delivery,medium,neutral
+TKT-1216,2026-06-21 21:00:00,chat,GB,"Good day, The refund amount is lower than expected. I already tried again twice. Please let me know how to fix this.",cancellation_refund,medium,negative
+TKT-1142,2026-06-22 21:00:00,mobile_app,PH,"Hi there, The latest update broke dark mode. This happened after the latest update. Thanks in advance.",technical_issue,high,neutral
+TKT-1223,2026-03-27 01:00:00,chat,SG,"Hi, I cancelled but I was still charged. This started today. I would appreciate an update.",cancellation_refund,medium,neutral
+TKT-1086,2026-02-05 08:00:00,email,GB,"Hi, I cannot log in to my account. This is the first time I have seen this issue. I would appreciate an update.",account_access,medium,neutral
+TKT-1033,2026-04-18 13:00:00,chat,SG,"Hi there, I was billed after changing my plan. This is the first time I have seen this issue. I would appreciate an update.",billing,high,negative
+TKT-1075,2026-05-24 17:00:00,mobile_app,PH,"Hi, I keep getting signed out. This is the first time I have seen this issue. Please let me know how to fix this.",account_access,high,negative
+TKT-1253,2026-03-22 17:00:00,mobile_app,SG,"Good day, Can I upgrade my plan at any time. I am using the mobile app. Please help.",product_inquiry,medium,positive
+TKT-1275,2026-05-07 23:00:00,email,GB,"Hello support, Can I use the service on multiple devices. This happened after the latest update. Please let me know how to fix this.",product_inquiry,low,positive
+TKT-1155,2026-06-30 04:00:00,web_form,PH,"Hi, Can I change the shipping address before dispatch. I am using the website on my laptop. Please let me know how to fix this.",delivery,high,neutral
+TKT-1138,2026-06-12 21:00:00,mobile_app,SG,"Hello support, The app crashes whenever I open settings. I have not changed anything on my account. What should I do next?",technical_issue,medium,negative
+TKT-1072,2026-04-17 12:00:00,email,GB,"Good day, I forgot which email I used to sign up. I already tried again twice. What should I do next?",account_access,medium,negative
+TKT-1279,2026-06-25 08:00:00,mobile_app,AU,Do you have an annual billing option. This happened after the latest update. I would appreciate an update.,product_inquiry,medium,positive
+TKT-1195,2026-04-19 01:00:00,web_form,GB,"Hello support, Part of my order is missing. This started today.",delivery,low,negative
+TKT-1087,2026-01-18 20:00:00,web_form,AU,"Hey team, I forgot which email I used to sign up. I need this resolved before the end of the day. Thanks in advance.",account_access,high,negative
+TKT-1267,2026-03-24 11:00:00,chat,PH,"Hello support, Can I use the service on multiple devices. It has been happening since yesterday. Please help.",product_inquiry,medium,neutral
+TKT-1125,2026-02-26 11:00:00,web_form,AU,"Hello support, The mobile app freezes on the checkout screen. I am using the mobile app. Can someone look into this?",technical_issue,high,neutral
+TKT-1044,2026-05-11 21:00:00,email,AU,"Hey team, Can you explain the extra fee on my bill. I am using the mobile app. I would appreciate an update.",billing,medium,negative
+TKT-1199,2026-04-20 23:00:00,email,PH,"Hi, Can I change the shipping address before dispatch. I have not changed anything on my account. What should I do next?",delivery,low,neutral
+TKT-1212,2026-01-26 12:00:00,chat,SG,Can I cancel an order that has already shipped. I need this resolved before the end of the day. What should I do next?,cancellation_refund,medium,neutral
+TKT-1150,2026-03-04 06:00:00,chat,GB,"Good day, Uploads are stuck at zero percent. I am using the website on my laptop. I would appreciate an update.",technical_issue,high,negative
+TKT-1007,2026-05-11 01:00:00,web_form,AU,"Good day, I do not recognize this charge. It has been happening since yesterday.",billing,medium,negative
+TKT-1198,2026-06-27 13:00:00,web_form,PH,"Hello support, The courier marked the package delivered but I do not have it. I need this resolved before the end of the day. Please let me know how to fix this.",delivery,medium,neutral
+TKT-1167,2026-01-20 18:00:00,web_form,SG,"Hi, The package was returned to sender. I am using the website on my laptop. Thanks in advance.",delivery,medium,negative
+TKT-1048,2026-06-24 21:00:00,email,AU,"Hey team, I was billed after changing my plan. This happened after the latest update. Please let me know how to fix this.",billing,high,neutral
+TKT-1284,2026-01-26 16:00:00,email,PH,"Hey team, Do you have an annual billing option. I already tried again twice. What should I do next?",product_inquiry,low,neutral
+TKT-1182,2026-04-08 15:00:00,email,US,"Good day, My delivery is delayed again. This is the first time I have seen this issue. Please help.",delivery,high,negative
+TKT-1046,2026-05-01 04:00:00,mobile_app,CA,"Hey team, I do not recognize this charge. This happened after the latest update. I would appreciate an update.",billing,medium,neutral
+TKT-1014,2026-04-02 09:00:00,web_form,PH,"Hey team, I was billed after changing my plan. This is the first time I have seen this issue. I would appreciate an update.",billing,medium,negative
+TKT-1053,2026-06-01 03:00:00,mobile_app,CA,"Hey team, Two factor authentication is not sending a code. What should I do next?",account_access,high,neutral
+TKT-1209,2026-03-01 18:00:00,web_form,GB,"Hi there, Please refund my latest payment. This is the first time I have seen this issue. I would appreciate an update.",cancellation_refund,medium,negative
+TKT-1263,2026-05-11 21:00:00,mobile_app,AU,"Hello support, What payment methods do you accept. I already tried again twice.",product_inquiry,medium,positive
+TKT-1285,2026-03-16 23:00:00,mobile_app,SG,"Hello support, What payment methods do you accept. I am using the mobile app. Please help.",product_inquiry,low,neutral
+TKT-1286,2026-01-03 14:00:00,mobile_app,PH,"Hi there, Does the premium plan include team accounts. Thanks in advance.",product_inquiry,medium,neutral
+TKT-1230,2026-06-24 02:00:00,mobile_app,GB,"Good day, My refund has not appeared on my card. This is the first time I have seen this issue. I would appreciate an update.",cancellation_refund,low,negative
+TKT-1221,2026-02-14 23:00:00,web_form,GB,"Good day, I cancelled but I was still charged. This happened after the latest update. Please let me know how to fix this.",cancellation_refund,medium,neutral
