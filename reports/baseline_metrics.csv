@@ -1,0 +1,2 @@
+experiment_id,model,vectorizer,tfidf_lowercase,tfidf_ngram_range,tfidf_stop_words,classifier_solver,classifier_c,classifier_max_iter,training_samples,validation_samples,training_seconds,accuracy,precision_macro,recall_macro,f1_macro
+baseline_001,LogisticRegression,TfidfVectorizer,True,"(1, 1)",,lbfgs,1.0,1000,210,45,0.04237199999988661,0.9777777777777777,0.9791666666666666,0.9791666666666666,0.9777777777777779
