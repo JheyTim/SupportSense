@@ -1,0 +1,2 @@
+ticket_id,text,actual_category,predicted_category,confidence,analyst_notes
+TKT-1010,"Good day, I was charged twice for my subscription. I have not changed anything on my account. I would appreciate an update.",billing,cancellation_refund,0.2811920578883957,It mentions charged twice so model predicted that it should refund the second charged
