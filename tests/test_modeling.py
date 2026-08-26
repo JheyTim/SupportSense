@@ -135,3 +135,40 @@ def test_experiment_runner_returns_metrics():
         fitted_model.named_steps["classifier"],
         "classes_",
     )
+
+
+def test_priority_model_predicts_known_labels():
+    """Priority predictions must belong to the supported class set."""
+
+    texts = [
+        "general product question",
+        "simple account question",
+        "need help today immediately",
+        "urgent payment failure",
+        "delivery information request",
+        "critical delivery problem",
+    ]
+
+    priorities = [
+        "low",
+        "low",
+        "medium",
+        "high",
+        "medium",
+        "high",
+    ]
+
+    model = build_text_pipeline(create_classifier("logistic_regression"))
+
+    model.fit(
+        texts,
+        priorities,
+    )
+
+    predictions = model.predict(["urgent account problem"])
+
+    assert predictions[0] in {
+        "low",
+        "medium",
+        "high",
+    }

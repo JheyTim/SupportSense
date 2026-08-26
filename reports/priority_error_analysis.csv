@@ -1,0 +1,29 @@
+ticket_id,text,actual_priority,predicted_priority,confidence
+TKT-1053,"Hey team, Two factor authentication is not sending a code. What should I do next?",high,medium,0.7284979901578847
+TKT-1201,"Hi, I need to stop my renewal. This happened after the latest update. What should I do next?",medium,high,0.7031734379176973
+TKT-1239,"Hey team, I cancelled but I was still charged. This is the first time I have seen this issue. I would appreciate an update.",high,medium,0.6968512445294737
+TKT-1252,"Hey team, What payment methods do you accept. This is the first time I have seen this issue. I would appreciate an update.",low,medium,0.6827962195615856
+TKT-1121,"Hey team, The mobile app freezes on the checkout screen. It has been happening since yesterday. Can someone look into this?",high,medium,0.6501565819464915
+TKT-1059,"Hi there, My account was disabled unexpectedly. I would appreciate an update.",high,medium,0.6369550497270335
+TKT-1133,"Hello support, Search results are not appearing. This happened after the latest update. Please help.",high,medium,0.6122312844215145
+TKT-1175,"Hey team, The package was returned to sender. This happened after the latest update.",low,high,0.5746581094975454
+TKT-1157,"Good day, Part of my order is missing. This happened after the latest update. Please help.",low,high,0.5733256993350486
+TKT-1106,"Hey team, Notifications stopped working after the update. This is the first time I have seen this issue. Can someone look into this?",high,medium,0.5537788032889284
+TKT-1128,I get an error when trying to save changes. I am using the website on my laptop. What should I do next?,high,medium,0.5462246347067664
+TKT-1171,"Hey team, My delivery is delayed again. This is the first time I have seen this issue. What should I do next?",high,medium,0.5157082387713444
+TKT-1224,I accidentally purchased the wrong plan and want a refund. This happened after the latest update. Can someone look into this?,low,high,0.514128779333238
+TKT-1109,"Hi there, The page refreshes every time I click submit. I have not changed anything on my account. Thanks in advance.",high,medium,0.5024169087830819
+TKT-1156,"Hey team, The box arrived damaged. Please help.",low,medium,0.48315302048543185
+TKT-1049,"Hello support, I was billed after changing my plan. I am using the website on my laptop. Please help.",high,medium,0.48019737538950646
+TKT-1221,"Good day, I cancelled but I was still charged. This happened after the latest update. Please let me know how to fix this.",medium,high,0.47958585778384
+TKT-1060,"Hey team, I changed my phone number and cannot receive the security code. I am using the website on my laptop.",medium,high,0.4732375953037916
+TKT-1230,"Good day, My refund has not appeared on my card. This is the first time I have seen this issue. I would appreciate an update.",low,high,0.46538645630691916
+TKT-1123,"Hello support, I get an error when trying to save changes. I am using the mobile app. What should I do next?",high,medium,0.4497105526383147
+TKT-1155,"Hi, Can I change the shipping address before dispatch. I am using the website on my laptop. Please let me know how to fix this.",high,low,0.44141446290638553
+TKT-1243,"Good day, Please refund my latest payment. I need this resolved before the end of the day. Please let me know how to fix this.",medium,high,0.43704671374972087
+TKT-1240,"Good day, How long does a refund take. This is the first time I have seen this issue. I would appreciate an update.",low,medium,0.4321124004884101
+TKT-1009,"Hello support, I do not recognize this charge. I need this resolved before the end of the day. Thanks in advance.",high,medium,0.42007559355234386
+TKT-1181,"Hi there, Can I change the shipping address before dispatch. This is the first time I have seen this issue. Thanks in advance.",low,high,0.36956170080049816
+TKT-1118,"Hi there, The mobile app freezes on the checkout screen. I am using the mobile app. Thanks in advance.",medium,high,0.3691410313592028
+TKT-1198,"Hello support, The courier marked the package delivered but I do not have it. I need this resolved before the end of the day. Please let me know how to fix this.",medium,low,0.3601330344756916
+TKT-1222,"Hi, The refund amount is lower than expected. This happened after the latest update. Can someone look into this?",medium,high,0.3571296393760256

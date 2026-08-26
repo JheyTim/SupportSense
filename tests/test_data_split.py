@@ -18,6 +18,7 @@ def sample_dataset() -> pd.DataFrame:
                     "ticket_id": f"{category}-{number}",
                     "text": f"Example ticket {number}",
                     "category": category,
+                    "priority": category,
                 }
             )
 
@@ -72,3 +73,22 @@ def test_split_dataset_preserves_categories(sample_dataset):
     assert set(train_df["category"]) == expected_categories
     assert set(validation_df["category"]) == expected_categories
     assert set(test_df["category"]) == expected_categories
+
+
+def test_split_dataset_can_stratify_priority(
+    sample_dataset,
+):
+    """Dataset splitting should support priority as the target."""
+
+    train_df, validation_df, test_df = split_dataset(
+        sample_dataset,
+        target_column="priority",
+    )
+
+    expected_priorities = set(sample_dataset["priority"])
+
+    assert set(train_df["priority"]) == (expected_priorities)
+
+    assert set(validation_df["priority"]) == (expected_priorities)
+
+    assert set(test_df["priority"]) == (expected_priorities)
