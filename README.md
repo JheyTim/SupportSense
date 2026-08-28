@@ -74,16 +74,6 @@ SupportSense/
    python -m pip install -r requirements.txt
    ```
 
-4. If local configuration is needed, create an environment file from the
-   provided template:
-
-   ```bash
-   cp .env.example .env
-   ```
-
-   The template is currently empty; add documented variables there as the
-   project gains configurable services. Never commit secrets in `.env`.
-
 ## Development
 
 Run the test suite from the repository root:
@@ -109,16 +99,3 @@ Apply Ruff formatting when needed:
 ```bash
 python -m ruff format .
 ```
-
-## Project status
-
-SupportSense is in its foundation stage. The package is ready for new analysis,
-classification, reporting, or application modules, but it does not yet expose a
-command-line interface or deployable service.
-
-## Contributing
-
-1. Create a branch for your change.
-2. Add or update tests with the implementation.
-3. Run the tests, lint checks, and formatting check.
-4. Open a pull request describing the change and how it was validated.
